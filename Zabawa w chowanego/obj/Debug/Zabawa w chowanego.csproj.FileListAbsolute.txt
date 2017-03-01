@@ -1,0 +1,9 @@
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\bin\Debug\Zabawa w chowanego.exe.config
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\bin\Debug\Zabawa w chowanego.exe
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\bin\Debug\Zabawa w chowanego.pdb
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa_w_chowanego.Form1.resources
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa_w_chowanego.Properties.Resources.resources
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa w chowanego.csproj.GenerateResource.Cache
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa w chowanego.exe
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa w chowanego.pdb
+C:\Users\Rosanna\documents\visual studio 2015\Projects\Rozdzial 7(v2)\Zabawa w chowanego\obj\Debug\Zabawa w chowanego.csprojResolveAssemblyReference.cache
